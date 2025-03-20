@@ -32,11 +32,7 @@ Project Files
 Revenue Insights in Hospitality Domain.pbix – The main Power BI dashboard file.
 Data files (CSV/XLSX) – Raw and processed data used for analysis.
 
-How to Use the Dashboard?
 
-1. Download the PBIX file (Revenue Insights in Hospitality Domain.pbix).
-2. Open it in Power BI Desktop.
-3. Explore the interactive visualizations and insights.
 
 Future Improvements
 
